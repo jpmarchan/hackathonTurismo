@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00fc2e96-dfe0-42e5-9966-946400af6424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/recursos/css/agency1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/css/agency3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/css/todo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/img/celular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/img/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/img/log.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/img/mensaje.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/img/triangulo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/recursos/vendor/fontawesome-free/webfonts/fa_font.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recursos/img/servicio1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recursos/img/servicio2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recursos/img/servicio3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/recursos/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/recursos/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/recursos/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/recursos/css/agency.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/recursos/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/recursos/css/agency.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/recursos/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/recursos/img/montana.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/recursos/img/montana.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/segundoPage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/segundoPage.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/tercerPage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/tercerPage.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +164,7 @@
       <updated>1575071033723</updated>
       <workItem from="1575071034851" duration="5799000" />
       <workItem from="1575078106376" duration="788000" />
-      <workItem from="1575125105248" duration="27355000" />
+      <workItem from="1575125105248" duration="28642000" />
     </task>
     <servers />
   </component>

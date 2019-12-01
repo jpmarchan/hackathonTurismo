@@ -163,12 +163,43 @@
     <br>
 
     <div class="container">
+        <div class="row">
+                <img src="recursos/img/celular.png" alt="">
 
-        <img src="recursos/img/celular.png" alt="">
+
+            <div class="col-lg-3">
+                <div>
+                    <img src="recursos/img/servicio1.png" alt="">
+                </div>
+                <div>
+                    <img src="recursos/img/servicio2.png" alt="">
+                </div>
+
+
+
+
+            </div>
+            <div class="col-lg-3">
+                <div>
+                    <img src="recursos/img/servicio3.png" alt="">
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+
+
+
 
 
 
         </div>
+    </div>
     </div>
 </nav>
 
