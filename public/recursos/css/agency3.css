@@ -44,6 +44,11 @@ h6 {
   margin-top: 0;
   margin-bottom: 15px;
 }
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+}
 
 .page-section h3.section-subheading {
   font-size: 16px;
@@ -659,11 +664,10 @@ section#contact {
 .segundo{
     background-color: #753AFA;
     background-repeat: no-repeat;
-    background-image:  url(/recursos/img/triangulo.png);
-
     background-position: center;
     padding-top: 9%;
     height: 83vh;
+
     background-position: center;
 
 }
@@ -674,14 +678,6 @@ section#contact {
     margin-left: 94%;
 
 
-}
-
-.letra4{
-    margin-top: -7%;
-    margin-left: 5%;
-    color: white;
-    font-weight: 700;
-    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 .check{
     vertical-align: middle;
