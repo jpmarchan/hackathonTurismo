@@ -675,8 +675,31 @@ section#contact {
 
 
 }
+.servicio1{
+    vertical-align: middle;
+    border-style: none;
+    margin-left: -20%;
+
+}
+.servicio2{
+    vertical-align: middle;
+    border-style: none;
+
+}
+.servicio3{
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 50%;
+}
 
 .letra4{
+    margin-top: -7%;
+    margin-left: 5%;
+    color: white;
+    line-height: 1.75;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+.letra5{
     margin-top: -7%;
     margin-left: 5%;
     color: white;

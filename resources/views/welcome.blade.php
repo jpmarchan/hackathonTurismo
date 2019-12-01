@@ -158,21 +158,25 @@
 <!-- Contact -->
 <nav class="segundo" id="contact">
     <div><h1 class="letra4">¿Ya tienes tu paquete confirmado?</h1></div>
+
+
     <br>
     <br>
     <br>
+
 
     <div class="container">
         <div class="row">
-                <img src="recursos/img/celular.png" alt="">
+
+            <img src="recursos/img/celular.png" alt="">
 
 
             <div class="col-lg-3">
-                <div>
-                    <img src="recursos/img/servicio1.png" alt="">
+                <div >
+                    <img class="servicio1"src="recursos/img/servicio1.png" alt="">
                 </div>
-                <div>
-                    <img src="recursos/img/servicio2.png" alt="">
+                <div >
+                    <img class="servicio2" src="recursos/img/servicio2.png" alt="">
                 </div>
 
 
@@ -180,8 +184,8 @@
 
             </div>
             <div class="col-lg-3">
-                <div>
-                    <img src="recursos/img/servicio3.png" alt="">
+                <div >
+                    <img  class="servicio3" src="recursos/img/servicio3.png" alt="">
 
                 </div>
 
@@ -208,7 +212,6 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-4">
-                <span class="copyright">asdasdasdasd</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
@@ -232,10 +235,8 @@
             <div class="col-md-4">
                 <ul class="list-inline quicklinks">
                     <li class="list-inline-item">
-                        <a href="#">asdasd</a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="#">asdasdae</a>
                     </li>
                 </ul>
             </div>
